@@ -17,6 +17,11 @@ Las tácticas que podemos usar para lograrlo son:
 
 ## Escalabilidad
 
+La escabalabilidad, en mi experiencia es la característica más malentendida de
+las cosas que se buscan en un sistema de software. Se habla de código escalable,
+cuando la escabalidad no es una característica del código, sino del sistema
+**en ejecución**.
+
 ## Mantenibilidad
 
 ## Conclusión
